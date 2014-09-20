@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "marc.jarvis@mail.mcgill.ca",
+    "longName": "PebbleTutorial",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "PebTut",
+    "uuid": "77787e11-279a-469b-b84e-099e13e006d8",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
